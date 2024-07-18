@@ -1,0 +1,11 @@
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\bin\Debug\net8.0\BaseLibary.deps.json
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\bin\Debug\net8.0\BaseLibary.dll
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\bin\Debug\net8.0\BaseLibary.pdb
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\obj\Debug\net8.0\BaseLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\obj\Debug\net8.0\BaseLibary.AssemblyInfoInputs.cache
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\obj\Debug\net8.0\BaseLibary.AssemblyInfo.cs
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\obj\Debug\net8.0\BaseLibary.csproj.CoreCompileInputs.cache
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\obj\Debug\net8.0\BaseLibary.dll
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\obj\Debug\net8.0\refint\BaseLibary.dll
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\obj\Debug\net8.0\BaseLibary.pdb
+C:\Users\AQUIB\source\repos\EmployeeManagementSystem\BaseLibary\obj\Debug\net8.0\ref\BaseLibary.dll
