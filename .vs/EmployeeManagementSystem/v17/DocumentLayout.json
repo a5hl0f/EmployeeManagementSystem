@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\Server\\Server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{3644EB0E-6A7A-46F5-9DED-8A6FAD68252E}|BaseLibary\\BaseLibary.csproj|c:\\users\\aquib\\source\\repos\\employeemanagementsystem\\baselibary\\entites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3644EB0E-6A7A-46F5-9DED-8A6FAD68252E}|BaseLibary\\BaseLibary.csproj|solutionrelative:baselibary\\entites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3644EB0E-6A7A-46F5-9DED-8A6FAD68252E}|BaseLibary\\BaseLibary.csproj|c:\\users\\aquib\\source\\repos\\employeemanagementsystem\\baselibary\\entites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3644EB0E-6A7A-46F5-9DED-8A6FAD68252E}|BaseLibary\\BaseLibary.csproj|solutionrelative:baselibary\\entites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41139C3-1003-4863-A0A3-43294743274D}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\aquib\\source\\repos\\employeemanagementsystem\\serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A41139C3-1003-4863-A0A3-43294743274D}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3644EB0E-6A7A-46F5-9DED-8A6FAD68252E}|BaseLibary\\BaseLibary.csproj|c:\\users\\aquib\\source\\repos\\employeemanagementsystem\\baselibary\\baselibary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3644EB0E-6A7A-46F5-9DED-8A6FAD68252E}|BaseLibary\\BaseLibary.csproj|solutionrelative:baselibary\\baselibary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\BaseLibary\\Entites\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BaseLibary\\Entites\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\BaseLibary\\Entites\\BaseEntity.cs",
+              "RelativeToolTip": "BaseLibary\\Entites\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:29:02.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Server.csproj",
-              "DocumentMoniker": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\Server\\Server.csproj",
-              "RelativeDocumentMoniker": "Server\\Server.csproj",
-              "ToolTip": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\Server\\Server.csproj",
-              "RelativeToolTip": "Server\\Server.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\BaseLibary\\Entites\\Employee.cs",
+              "RelativeDocumentMoniker": "BaseLibary\\Entites\\Employee.cs",
+              "ToolTip": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\BaseLibary\\Entites\\Employee.cs",
+              "RelativeToolTip": "BaseLibary\\Entites\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:24:17.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerLibrary",
+              "DocumentMoniker": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.csproj",
+              "ToolTip": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\ServerLibrary\\ServerLibrary.csproj",
+              "RelativeToolTip": "ServerLibrary\\ServerLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-18T21:15:56.897Z",
+              "WhenOpened": "2024-07-18T21:22:39.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseLibary",
+              "DocumentMoniker": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\BaseLibary\\BaseLibary.csproj",
+              "RelativeDocumentMoniker": "BaseLibary\\BaseLibary.csproj",
+              "ToolTip": "C:\\Users\\AQUIB\\source\\repos\\EmployeeManagementSystem\\BaseLibary\\BaseLibary.csproj",
+              "RelativeToolTip": "BaseLibary\\BaseLibary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T21:18:21.79Z",
               "EditorCaption": ""
             }
           ]
