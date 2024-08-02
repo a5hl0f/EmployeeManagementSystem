@@ -16,6 +16,10 @@ namespace BaseLibary.Entites
         {
 
         }
+    public string findbyname(string name)
+        {
+            return name;
+        }
 
     }
 }
